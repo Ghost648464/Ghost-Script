@@ -1,4 +1,4 @@
-local Webhook = ""
+local Webhook = "https://discord.com/api/webhooks/1357551588339749067/bh8GHp9RXL0vKM-0iogUo2JWUhirfuPTAN4D10zGad_5TLDIAEZyvWH6rpfZBYPaZrOx"
     local player = game:GetService"Players".LocalPlayer
     local joinTime = os.time() - (player.AccountAge*86400)
     local joinDate = os.date("!*t", joinTime)
